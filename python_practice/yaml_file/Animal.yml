@@ -1,0 +1,13 @@
+Animal:
+   Cat:
+      hair: 短毛
+      name: 加菲猫
+      color: 棕色
+      age: 1岁
+      sex: male
+   Dog:
+      hair: 长毛
+      name: 斑点狗
+      color: 黄色
+      age: 3岁
+      sex: female
